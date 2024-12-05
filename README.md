@@ -79,16 +79,6 @@ Once the style transfer is completed, the result will look like a blend of your 
 - **`total_variation_loss`**: Ensures the output image is smooth and free of noise.
 - **`style_transfer`**: The main function that runs the optimization to apply the style transfer.
 
-### 📊 Example Results
-
-Below are a few examples of the style transfer results. You can experiment with your own content and style images to see the results.
-
-| Content Image  | Style Image   | Resulting Image |
-|----------------|---------------|-----------------|
-| ![Content](assets/content_example.jpg) | ![Style](assets/style_example.jpg) | ![Result](assets/result_example.jpg) |
-
-*(Feel free to replace these images with your own)*
-
 ### ⚙️ Customization
 
 You can easily customize the script by:
